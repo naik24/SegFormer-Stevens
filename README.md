@@ -1,4 +1,4 @@
-# Image Segmentation with SegFormer
+# Image Segmentation with SegFormer [![access-demo-here](https://img.shields.io/badge/Access%20Demo-Here-1f425f.svg)](https://github.com/naik24/SegFormer-Stevens/blob/master/segformer_floodseg.ipynb)
 
 SegFormer is a transformer model for semantic segmentation. It uses a hierarchical Transformer encoder to capture lon-range dependencies in the image. The encoder outputs multiple-scale features, which are then fed to a lightweight decoder to produce segmentation mask. SegFormer achieves state-of-the-art results on several segmentation benchmarks
 
